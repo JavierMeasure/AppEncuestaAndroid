@@ -1,0 +1,11 @@
+[
+  {
+    "contenido": "Encuesta Rally 2024 - Publico General",
+    "nombre_csv": "rally24g",
+    "headers": ["dia", "valGral", "eventoAnterior", "motivos", "edad", "rrss", "genero", "pais", "comuna", "ocupacion", "algoMas"]
+  },
+  {"contenido": "Encuesta Rally 2024 - Publico No local",
+    "nombre_csv": "rally24nl",
+    "headers": ["pais", "ciudadExtranjera", "comuna", "transporteLlegar", "transporteZona", "gastoTransporte", "principalMotivo", "cuantasNoches", "alojamiento", "gastoAlojamiento", "gastoVarios", "edad", "dia", "algoMas", "lugar"]
+  }
+]
